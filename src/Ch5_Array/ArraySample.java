@@ -19,9 +19,6 @@ public class ArraySample {
             System.out.print(sortedNum+",");
         }
 
-
-
-
     }
 
     public void inertionSort(int[] numArr) {
